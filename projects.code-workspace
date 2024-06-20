@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../c programmes"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"HEART.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "projects"
+	}
+}
